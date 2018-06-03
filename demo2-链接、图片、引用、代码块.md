@@ -16,9 +16,13 @@
 
 
 ## 图片
+图片语法格式：![alt](url text)
 
+- 外部图片
+![百度logo](https://www.baidu.com/img/bd_logo1.png "百度图片")
 
-
+- 本地仓库中的图片
+![仓库中的图片](images/pic.png)
 
 
 ## 引用
