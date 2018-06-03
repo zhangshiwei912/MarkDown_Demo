@@ -4,7 +4,7 @@
 ### 内嵌式链接
 - 外部链接：[百度](http://www.baidu.com)
 - 内部链接：[demo1-标题、段落、强调、列表.md](demo1-标题、段落、强调、列表.md)  
-[README](README.md)
+[README](这是一个文件夹/README.md)
 
 
 
