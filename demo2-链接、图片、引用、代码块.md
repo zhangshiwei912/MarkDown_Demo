@@ -37,9 +37,17 @@
 这是一段测试行内代码的文字，行内代码使用``符号例如`int a=1` 
 
 - 块级代码
-```java
+```
 前后各使用三个反引号符号包裹代码
 String a="aaa"
+```
+```java
+在前面加上语言名称可以实现语法高亮
+String a="aaa"
+```
+```javascript
+var a=1;
+console.log(a);
 ```
 <!--- 下面是本文用到的链接 --->
 [百度]:http://www.baidu.com
